@@ -18,7 +18,3 @@ This project is a Machine Learning application that detects fraudulent credit ca
 
 The dataset used is the **Credit Card Fraud Detection** dataset from Kaggle:  
 [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-
----
-
-
