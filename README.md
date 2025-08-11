@@ -6,9 +6,9 @@ This project is a Machine Learning application that detects fraudulent credit ca
 
 ## Features
 
-- Trains a Logistic Regression model on an under-sampled dataset to handle class imbalance.
+- Trains a `Logistic Regression` model on an under-sampled dataset to handle class imbalance.
 - Saves and loads the trained model using `pickle`.
-- Interactive Streamlit web app to predict if a transaction is legitimate or fraudulent.
+- Interactive `Streamlit` web app to predict if a transaction is legitimate or fraudulent.
 - User inputs features corresponding to anonymized transaction data.
 - Clean and simple UI for quick testing and demonstration.
 
