@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import pickle
 
+# Set page configuration
+st.set_page_config(page_title="Credit Card Fraud Detector",
+                   layout="wide",
+                   page_icon="💳")
+
 # Load the trained model
 with open("trained_model.sav", "rb") as f:
     model = pickle.load(f)
